@@ -8,6 +8,7 @@ public class TipoDias{
 		Scanner sc = new Scanner(System.in);
 		String dia = sc.next();
 		sc.close();
+		//pruebo si se sube bien.
 		switch (dia){
 		case "1":
 		System.out.println("Lunes es un dia laborable");
