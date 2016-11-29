@@ -1,6 +1,10 @@
 
 import java.util.Scanner;
-
+/** Clase que leido un dia de la semana 
+*Nos dice si es laborable o no
+*-@author Javi
+*-version1.0
+*/
 
 public class TipoDias{
 	public static void main (String[] arg){
